@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "herramientas-26"
+assignment: "introduccion-a-git"
+owner:
+  username: "DanielPerez30"
+  id: 325441307
+  accepted_at: "2026-09-09T23:08:25Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
